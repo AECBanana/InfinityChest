@@ -1,0 +1,4 @@
+# This is a placeholder texture file
+# In a real mod, you would place a 16x16 PNG texture file here
+# For now, this file serves as a placeholder to prevent missing texture errors
+
